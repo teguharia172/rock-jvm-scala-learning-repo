@@ -12,4 +12,8 @@ object functionExercise extends App{
       f(n) = f(n-1) + f(n-2)
     4. Test if a number is prime
   */
+
+
+
 }
+

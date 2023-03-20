@@ -30,4 +30,5 @@ object Functions extends App{
 
     aSmallerFunction(n,n-1)
   }
+  println(aBigFunction(5))
 }
